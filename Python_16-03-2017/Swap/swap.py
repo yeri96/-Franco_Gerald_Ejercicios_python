@@ -1,7 +1,7 @@
 mano_izq = "movil"
 mano_der = "bocata"
-mano_extra = izquierda
-mano_izq = derecha
+mano_extra = mano_izq
+mano_izq = mano_der
 mano_der = mano_extra
 
 print mano_izq
